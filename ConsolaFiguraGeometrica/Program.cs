@@ -10,6 +10,7 @@ namespace ConsolaFiguraGeometrica
     {
         static void Main(string[] args)
         {
+            //comment
         }
     }
 }
